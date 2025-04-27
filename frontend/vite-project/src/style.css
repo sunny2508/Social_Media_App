@@ -1,0 +1,12 @@
+.iconClasses{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding: 8px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.iconClasses:hover{
+    background-color: #1e1e1e;
+}
+
